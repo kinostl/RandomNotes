@@ -12,6 +12,7 @@ Every turn you start without The Ante, gain 1 Momentum. Draw a number of cards e
 
 # Upshifts and Downshifts
 Downshifts allow you to match suits of the same color as if they were the same suit.
+
 Upshifts make your opponent choose the least common suit in their spread instead of the most common suit.
 <!--- Upshifts might be too powerful. -->
 
@@ -32,9 +33,13 @@ Take an action that would pressure your opponent! This will usually be rolling p
 Discard a Card, Face Down, to play a Chip. Inform your opponent you are playing a chip. Present its details at the end of the Defender's turn.
 
 If it is Slow or Dangerous, present its details immediately. 
+
 If it is Slow, pass the Ante at the end of the round.
+
 If it is Dangerous your opponent creates a Light Hazard using an element appropriate to this Dangerous Chip if they have The Ante at the end of the round. 
+
 If it is Awkward, you must Discard two Cards instead of one Card. 
+
 If it is Simple, do another action in addition to this Simple Chip.
 
 ## Cost Powers
@@ -47,7 +52,9 @@ If you end the turn with no cards left in your hand, hand over The Ante. You can
 If you do not hold The Ante, you do not take actions. You react to the Ante holder's actions and try to reacquire it. This should eventually happen, as the Ante Holder draws no cards.
 
 Start the turn by increasing your Momentum by 1.
+
 Draw a number of cards equal to your Momentum. 
+
 Your turn consists of responding to the action that the Ante holder has set up for you to respond to.
 If you succeed at any of these opposed actions, you acquire The Ante.
 
