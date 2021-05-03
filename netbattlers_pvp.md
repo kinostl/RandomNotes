@@ -30,7 +30,7 @@ You *must* choose an action on your turn when you have The Ante, as you are Pres
 Take an action that would pressure your opponent! This will usually be rolling powers, attacking your opponent, generating your element as a hazard, or interacting wth the environment to create a hazard. Whatever it is, it needs to cause a problem that your opponent needs to react to.
 
 ### Use a Chip
-Discard a Card, Face Down, to play a Chip. Inform your opponent you are playing a chip. Present its details at the end of the Defender's turn.
+Discard a Card, Face Down, to play a Chip as normal. Inform your opponent you are playing a chip. Present its details at the end of the Defender's turn.
 
 If it is Slow or Dangerous, present its details immediately. 
 
@@ -40,10 +40,10 @@ If it is Dangerous your opponent creates a Light Hazard using an element appropr
 
 If it is Awkward, you must Discard two Cards instead of one Card. 
 
-If it is Simple, do another action in addition to this Simple Chip.
+If it is Simple, activate it immediately and present its details immediately. Do another action in addition to this Simple Chip.
 
 ## Cost Powers
-Cost Powers are Simple and require you to Discard a Card, Face Down. This is in addition to spending the Stat Point. Inform your opponent you are using a cost power, and subtract the stat cost. Present its details at the end of the Defender's turn. Since this is Simple, do another action in addition to using this Cost Power.
+Cost Powers are Simple and require you to Discard a Card, Face Down. This is in addition to spending the Stat Point. Inform your opponent you are using a cost power, and subtract the stat cost. Activate the effects of the Power immediately. Since this is Simple, do another action in addition to using this Cost Power.
 
 ## Hand Over The Ante
 If you end the round with no cards left in your hand, hand over The Ante. Draw a number of cards equal to your Staring Chip Count. You can not willingly play this. This is to force you to play agressively, and cause a natural back and forth.
@@ -58,8 +58,14 @@ Draw a number of cards equal to your Momentum.
 Your turn consists of responding to the action that the Ante holder has set up for you to respond to.
 If you succeed at any of these opposed actions, you acquire The Ante.
 
+### Using Simple Chips
+When you use a Simple Chip, discard a card face down. Activate the effect of the Simple Chip immediately, and do another reaction in addition to this one.
+
+### Using Cost Powers
+Cost Powers are Simple. When you use a Cost Power, discard a card face down. This is in addition to spending the Stat Point. Activate the effects of the Power immediately, and do another reaction in addition to this one.
+
 ### Defend
-You can defend by making a roll. This will usualle be rolling powers, making a speed check, or making a stamina check.
+You can defend by making a roll. This will usually be rolling powers, making a speed check, or making a stamina check.
 
 ### Parry
 You can still parry! You will usually do this by making a roll. This will usually use a Strength check.
@@ -69,6 +75,9 @@ When you parry using a chip, discard a card face down. This must be a legal chip
 
 ### Respond to A Hazard
 If you are not defending against an attack, you're probably responding to a hazard. Make the appropriate check. Hazards are usually created by interacted with the environment, or generating element.
+
+# Revealing
+When both Attacker and Defender have finished taking their actions, both parties reveal their cards and present the details of any chips they need to. Compare hits as necessary, treating them like you would dice rolls in standard Net Battlers. 
 
 # Team Based
 Anything that refers to opponent or player represents the team that the target player is part of. The user of the cause of the effect chooses the team member it effects.
