@@ -46,7 +46,7 @@ If it is Simple, do another action in addition to this Simple Chip.
 Cost Powers are Simple and require you to Discard a Card, Face Down. This is in addition to spending the Stat Point. Inform your opponent you are using a cost power, and subtract the stat cost. Present its details at the end of the Defender's turn. Since this is Simple, do another action in addition to using this Cost Power.
 
 ## Hand Over The Ante
-If you end the turn with no cards left in your hand, hand over The Ante. You can not willingly play this. This is to force you to play agressively, and cause a natural back and forth. 
+If you end the round with no cards left in your hand, hand over The Ante. Draw a number of cards equal to your Staring Chip Count. You can not willingly play this. This is to force you to play agressively, and cause a natural back and forth.
 
 # Responding to The Ante's turn
 If you do not hold The Ante, you do not take actions. You react to the Ante holder's actions and try to reacquire it. This should eventually happen, as the Ante Holder draws no cards.
