@@ -1,3 +1,6 @@
+# What is this
+This is a modification to Will Uhl's [Net Battlers](https://www.merrymancergames.com/wp-content/uploads/2020/11/NetBattlers-Beta-7-Mobile.pdf) that makes Player vs Player a bit more than tossing rolls back and forth.
+
 # Your Hand
 This Player vs Player mode of NetBattlers eschews dice in favor of playing cards! You will need a standard 52-card deck. You have a starting hand size equal to your Starting Chip Count. 
 
