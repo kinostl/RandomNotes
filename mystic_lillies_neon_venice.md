@@ -35,3 +35,30 @@ You are the only ones in the way of wearing the world's crown.
 I'm looking for 3 to 5 players interested in playing as magical CEOs in my cyberpunk setting trying to take out one another and be the last one standing. Why you wish to do that, I do not know. I'm excited to find out why, and more importantly how.
 
 @Mystic Lillies Respond with 💰 if you're interested!
+
+* * *
+
+@ThatGuy74#5439 @Bluberry#5395 @3Birdie#6571 @Jatea#6438 - You will be our competitors.
+
+I may have said Magical CEOs. More correctly - you are very important people in the world. The media worships you as living gods. You own whole countries. You know that isn't real power. Nothing compared to what you can achieve on The Harvest.
+
+In a mere six months The Super Harvest Blood Moon will be reflected on the clear waters of Neon Venice, creating the largest magical circle ever seen. All your research has said that this special event is surely to open the door to the globe's throne room. 
+
+- - -
+
+Think about who you are, why you're important, and why you've deemed yourself important enough to wield this power despite its immense costs. Think about what you'll even do with it. 
+
+I'm not against team ups, and its entirely possible NPCs might try their luck at joining the fray, but they'll be more of a distraction than a true competitor.
+
+Promises - No Garfield is planned, but I'll be making appropriate pop references.
+Genre - Dark Comedy with serious topics. Retrofuturist.
+Session Count - I'm assuming like 3 after Session 0, but can see it growing beyond that depending on how our story and availability goes. (1 Session = ~2 Months in game. Exchange rate will change if we need it to.)
+Inspirations - Black Lagoon. Evangelion Remakes. 
+
+The purpose of the Super Harvest Blood Moon is to give us a guaranteed end-point, whatever plot happens in the timespan it allows is what happens - I'm not gonna railroad anyone.
+
+Magic - Closed, but high power. Its incredibly unreasonable for anyone to use. It is capable of absurd things. Only about 20 people worldwide can use it, so its pretty well policed within themselves.
+
+- - -
+
+Anyway, lets go ahead and plan Session 0 (and likely our weekly play time) - https://www.when2meet.com/?12159309-1h4yX
