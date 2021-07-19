@@ -163,3 +163,41 @@ AdminHeadphones
 Underflow
 CosmicMind
 Taboo (StartUP)
+
+- - - -
+
+**Escape From The Video @ Start.UP!**
+
+Voiced. NetOp Heavy Session.
+Net Battle Club - 2 Session Opportunities
+
+Safety Tools - VHS Controls (Start, Stop, Pause, etc) & X-Card & O-Card
+
+```
+To - Mainframe BBS
+From - Start.UP
+Subject - Escape From The Video Escape Room!
+
+Come on down to the Start.UP arcade and game shop to check out a special event we've created just for our home town! We've worked with the local history of technology museum to craft an escape room experience that will get you solving puzzles, playing with the coolest vintage stuff we can find, and even learning a thing or two!
+
+You've been pulled into the Media Dimension by xX]High Rez[Xx! You'll need to figure out the exit device before he can steal your navis and use them to power his new mascot!*
+
+Entry is Free for Children, and even comes with a free 2000z credit at Start.UP and the museum gift shop.
+
+* No harm will come to your navis from playing this game.
+```
+
+```
+To - Mainframe BBS
+From - Teach-a-tron
+Subject - RE: Escape From The Video Escape Room!
+
+All students who show proof of participation will receive 5 Education Credits.
+```
+
+This is going to be a slice of life kind of session about visiting an escape room focused around puzzles built out of technology. I'm expecting 6 Hours of play time (3 Challenges, 2 Puzzles, 1-ish Roleplay). Low Powered, No Navis, and mostly going to be just interacting with the escape room.
+
+:pager: I'm looking for 1 Player for Friday the 16th @ 8:00 PM (2/3 Slots filled already)
+:telephone: I am looking for 3 Players for Saturday the 17th @ 2:00 PM
+
+@NetBattlers All times Eastern. Respond with the associated emoji if you're interested.
