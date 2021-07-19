@@ -59,9 +59,10 @@ Crystals that have been crafted to make a city sized portion of land habitable. 
 **Types of Stories**
 
 *Caravan Stories* Like crystal chronicles, just doing a dangerous errand with a large group with setting appropriate transportation.
-        - Going from town to town
-        - Researching interesting areas
-        - Collecting materials
+
+- Going from town to town
+- Researching interesting areas
+- Collecting materials
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
