@@ -51,6 +51,11 @@ Crystals that have been crafted to make a city sized portion of land habitable. 
 -
 
 **Types of Stones**
+
+**Natural Simple Stones**
+**Artificial Simple Stones**
+**Artificial Complex Stones**
+**Natural Complex Stones**
 *C02 Emitter* Creates massive forests that are hostile to anyone that can't breath C02
 *Fire Stone* Makes a landscape look like its eternally on fire, and messes with the creatures that drinks its water.
 
@@ -75,9 +80,17 @@ __Caused by drinking fire related stuff__
 -
 
 **Technology**
-*Cars* Uncertain if these exist. Theres definitely transportation like magic brooms.
+~~*Cars* Uncertain if these exist. Theres definitely transportation like magic brooms.~~
+
 *Guns* Also uncertain if these exist, but maybe
 *Pebbles* Magic rocks that somehow do stuff on impact. Ammo is probably a big deal
+
+**Vehicles**
+They are nothing like ours. They are built around the trails that connect towns. These trails are lined with crystals to make the vehicles work without wheels.
+
+*Adventure Bucket* A gigantic bucket that is filled with goods. It has seats built onto the outside, for adventurers. Some really fancy ones might have other attachments like a balcony.
+*Magic Broom* This needs a rename. The magic flying staff is definitely popular though, and very often looks like a broom because of just how many stones it takes to make something fly in a reliable way.
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -106,4 +119,8 @@ Flooded ruins, barren rocky deserts, dense cities, early textiles
 
 **Inspirations**
 
-Slayers, .hack//Sign
+Slayers, .hack//Sign, Trigun, Pokemon Colosseum, Nausicaa Valley of The Wind
+
+**Need to Watch**
+
+Legendary Girl Utena, Here And There And Back Again
