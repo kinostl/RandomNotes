@@ -7,6 +7,7 @@
 
 # Gameplay loop
 
+- Point of the game is to get the most points. To win a round, reduce your opponent's HP to 0. It starts off at like 8?
 - The game itself runs several rounds where it'll iterate through every players' commands. Player 1 Command, Player 2 Command, Player 3 Command, etc.
 - Both player have 3 slots, that come filled with viruses. Viruses have "inserts". Things that modify them and commands that target them.
 - The game runs every match composition. Player order, which viruses are in what slots, etc. This *should* be easy to keep pretty low
@@ -17,7 +18,8 @@
 - Viruses act as sub-routines that can be dealt with through multiple means
  + Most commands tell two slots to interact
  + Some commands allow totally bypassing interacting with slots
- + An empty slot is pretty much a pass-through to the player
+ + An empty slot is pretty much a pass-through to the player and generally useless
+ + Almost every command uses the stats of a virus to fill in blanks in some way.
 
 # Alternative Game Modes
 
